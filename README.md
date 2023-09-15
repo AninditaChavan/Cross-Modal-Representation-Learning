@@ -39,11 +39,10 @@ All                             |**55.03**|**77.92**|**82.2**|
 
 From the above results we can see that a concatenation of Title + Ingredients + Instructions finds a lot more correlation with images. In general, it can also be seen that instructions and ingredients find a lot more correlation than title owing to the fact that ingredients and instructions contains many pseudo labels for it's corresponding images.
 
-
 <p float="left">
-  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/c59de4f0-c1e8-4883-8369-1e656faf5c26" width="300" />
-  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/21c8411b-2969-45aa-a596-47f703c496a2" width="300" /> 
-  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/5096fc04-8b21-4735-b51e-d5c6f7280654" width="300" />
+  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/c5f3723c-d138-4a9d-bbb5-0d437b213dae" width="300" />
+  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/8d389610-fc7b-4fd7-939f-f5d7ba892f44" width="300" /> 
+  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/dd847d25-05d8-412d-a714-0a871d620da2" width="300" />
 </p>
 
 ## Part 2 : Non-Linear-Multi-View Representation Learning
