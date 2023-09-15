@@ -21,7 +21,7 @@ We use the Recipe 1 Million Dataset which consists of approximately 1 Million te
 
 First Header                    | R @ 1  | R @ 5 | R @ 10|
 --------------------------------| ------ |------ |-------|
-**Generate Features(dim = 50)** |        |       |       |
+**Generated Features(dim = 50)** |        |       |       |
 Title                           | 3.29   | 11.46 | 18.19 |
 Ingredients                     | 4.13   |14.15  | 21.43 | 
 Instructions                    | 4.38   |15.15  | 22.39 |
