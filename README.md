@@ -19,7 +19,7 @@ views that correspond to each other.
 ## Part 1 : Linear-Multi-View Representation Learning
 We use the Recipe 1 Million Dataset which consists of approximately 1 Million text recipes with titles, instructions and ingredients in English. The images dataset containing 800K recipe images was downloaded from im2recipe webpage. We convert the text data into feature vectors of size 768 using Bert. We extract features of 4 different types of text - title, ingredients, instructions and all of them concatenated and study their correlation with images. We train a Canonical Correlation Analysis (CCA) model on the extracted features of the training text-image pairs. CCA is used to find the latent space where the objective is to maximize the correlation between a linear combination of text features and linear combination of image features.
 
-First Header                    | R @ 1  | R @ 5 | R @ 10|
+                                | R @ 1  | R @ 5 | R @ 10|
 --------------------------------| ------ |------ |-------|
 **Generated Features(dim = 50)** |        |       |       |
 Title                           | 3.29   | 11.46 | 18.19 |
