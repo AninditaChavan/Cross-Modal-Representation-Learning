@@ -37,13 +37,13 @@ Ingredients                     | 20.45  | 39.76 | 46.06 |
 Instructions                    | 35.58  | 57.66 | 64.24 | 
 All                             |**55.03**|**77.92**|**82.2**|
 
-From the above results we can see that a concatenation of Title + Ingredients + Instructions finds a lot more correlation with images. In general, it can also be seen that instructions and ingredients find a lot more correlation than title owing to the fact that ingredients and instructions contains many pseudo labels for it's corresponding images.
+In the table given above, we experiment with features generated using BERT + Resnet50 as well as features that come with the dataset. We also experiment with dimension = 50 and 768 From the above results we can see that a concatenation of Title + Ingredients + Instructions finds a lot more correlation with images. In general, it can also be seen that instructions and ingredients find a lot more correlation than title owing to the fact that ingredients and instructions contains many pseudo labels for it's corresponding images.
 
-<p float="left">
-  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/c5f3723c-d138-4a9d-bbb5-0d437b213dae" width="300" />
-  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/8d389610-fc7b-4fd7-939f-f5d7ba892f44" width="300" /> 
-  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/dd847d25-05d8-412d-a714-0a871d620da2" width="300" />
-</p>
+<!-- <p float="left">
+  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/c5f3723c-d138-4a9d-bbb5-0d437b213dae" width="200" />
+  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/8d389610-fc7b-4fd7-939f-f5d7ba892f44" width="200" /> 
+  <img src="https://github.com/AninditaChavan/Cross-Modal-Representation-Learning/assets/20729102/dd847d25-05d8-412d-a714-0a871d620da2" width="200" />
+</p> -->
 
 ## Part 2 : Non-Linear-Multi-View Representation Learning
 ## Part 3 : Multi-View Model for Video-Text alignment
